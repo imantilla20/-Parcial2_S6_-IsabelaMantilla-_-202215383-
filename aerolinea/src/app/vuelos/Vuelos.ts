@@ -7,7 +7,6 @@ export class Vuelos {
   arrivalAirport: string;
   arrivalCountry: string;
   arrivalCity: string;
-  arrivalAirport: string;
   departureTime: string;
   flightDuration: string;
   image: string;
@@ -32,7 +31,6 @@ export class Vuelos {
     this.arrivalAirport = arrivalAirport;
     this.arrivalCountry = arrivalCountry;
     this.arrivalCity = arrivalCity;
-    this.arrivalAirport = arrivalAirport;
     this.departureTime = departureTime;
     this.flightDuration = flightDuration;
     this.image = image;
